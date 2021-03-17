@@ -1,0 +1,87 @@
+/*IMPORT'S*/
+@import url('https://fonts.googleapis.com/css2?family=Revalia&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ropa+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+
+body{
+    background-color: #282a36;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.logo{
+    height: 70px;
+    width: 70px;
+
+    position: absolute ;
+    left: 355px;
+    top: 30px;
+
+}
+
+.inputBox{
+    align-self: center;
+}
+
+.labelSize{
+    position: absolute;
+    left: 307px;
+    top: 118px;
+
+    width: 177px;
+    height: 25px;
+
+    font-family: Ropa Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 21px;
+
+    color: #8BE9FD;
+}
+
+.quantity{
+    position: absolute;
+    left: 360px;
+    top: 150px;
+    padding-left: 20px;
+
+    width: 55px;
+    height: 42px;
+
+    border-radius: 10px;
+}
+
+.btnGen{
+    position: absolute;
+    left: 333px;
+    top: 220px;
+
+    width: 110px;
+    height: 51px;
+    
+    background: #44475a;
+    color: #F8F8F2;
+
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.outputBox{
+    text-align: center;
+    padding-top: 290px;
+}
+
+.newPassword{
+    font-family: 'Ropa Sans', sans-serif;
+    font-size: 30px;
+    color: #ff79c6;
+    width: 50px;
+    height: 30px;
+    
+}
