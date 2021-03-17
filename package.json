@@ -1,0 +1,15 @@
+{
+  "name": "PassGen",
+  "version": "1.0.0",
+  "description": "Password generator for your Gmail, Intagram, Facebook and etc ...",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "lszinxx",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^12.0.1"
+  }
+}
