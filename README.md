@@ -1,10 +1,10 @@
-# PassGen
+# YouPass
 
 ________________________________
 
 ## Sobre o que se trata? 🤔
 
-### PassGen é um projeto independente, Aonde você pode gerar senhas para ficar mais seguro, contra ataques hackers e vazamentos de dados, Ele e totalmente código aberto, então você pode modificar para adequar ele ao seu gosto.
+### YouPass é um projeto independente, Aonde você pode gerar senhas para ficar mais seguro, contra ataques hackers e vazamentos de dados, Ele e totalmente código aberto, então você pode modificar para adequar ele ao seu gosto.
 
 ## Tecnologias usadas? 🚀
 
