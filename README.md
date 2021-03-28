@@ -10,7 +10,7 @@ _______________________
 
 <table>
    <tr>
-     <td>Electron💻</td>
+
      <td>Html🌐</td>
      <td>Css🎨</td>
      <td>JavaScript🤖</td>
