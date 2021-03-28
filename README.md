@@ -19,14 +19,8 @@ ________________________________
 </table>
 
 ## Como posso usar ele?
-
-- Download NodeJS(version: 14.16.0 LTS)
-- Download Electron
-- Clone o projeto
-- Abra o terminal, digite: npm init e por fim npm start.
-
 __________________
-Ou você pode acessar pelo .exe, ou então pelo site https://youpass.surge.sh
+Você pode acessar pelo .exe ou então pelo site https://youpass.surge.sh
 ## Paleta de cores usadas?
 
 ### Dracula Palette: https://draculatheme.com/contribute/
