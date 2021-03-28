@@ -24,7 +24,8 @@ ________________________________
 - Download Electron
 - Clone o projeto
 - Abra o terminal, digite: npm init e por fim npm start.
- _ 
+
+__________________
 Ou você pode acessar pelo .exe, ou então pelo site youpass.surge.sh
 ## Paleta de cores usadas?
 
@@ -35,7 +36,7 @@ Ou você pode acessar pelo .exe, ou então pelo site youpass.surge.sh
    <tr>
      <td>#282a36</td>
      <td>#44475a</td>
-     <td>#ff79c6</td>
+     <td>#bd93f9</td>
      <td>#f8f8f2</td>
    </tr>
 
@@ -45,3 +46,4 @@ Ou você pode acessar pelo .exe, ou então pelo site youpass.surge.sh
 ### VsCode
 ### Figma
 ### Hyper Terminal
+sefui f
