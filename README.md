@@ -4,7 +4,7 @@ ________________________________
 
 ## Sobre o que se trata? 🤔
 
-### PassGen é um projeto independente, Aonde você pode gerar senhas para ficar mais seguro, contra ataques hackers e vazamentos de dados, Ele e totalmente código aberto, então você pode modificar para o adequar ao seu gosto.
+### PassGen é um projeto independente, Aonde você pode gerar senhas para ficar mais seguro, contra ataques hackers e vazamentos de dados, Ele e totalmente código aberto, então você pode modificar para adequar ele ao seu gosto.
 
 ## Tecnologias usadas? 🚀
 
