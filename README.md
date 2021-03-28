@@ -3,8 +3,8 @@
 ________________________________
 
 ## Sobre o que se trata? 🤔
-
-### YouPass é um projeto independente, Aonde você pode gerar senhas para ficar mais seguro, contra ataques hackers e vazamentos de dados.
+### YouPass é um projeto independente onde você pode gerar senhas mais seguras para prevenir ataques de hackers e vazamento de dados.
+_______________________
 
 ## Tecnologias usadas? 🚀
 
@@ -15,16 +15,16 @@ ________________________________
      <td>Css🎨</td>
      <td>JavaScript🤖</td>
    </tr>
-
 </table>
 
+________________________
+
 ## Como posso usar ele?
-__________________
-Você pode acessar pelo .exe ou então pelo site https://youpass.surge.sh
+### Você pode acessá-lo pelo site: https://youpass.surge.sh
+_________________________
+
 ## Paleta de cores usadas?
-
 ### Dracula Palette: https://draculatheme.com/contribute/
-
 ### Cores:
 <table>
    <tr>
@@ -35,6 +35,7 @@ Você pode acessar pelo .exe ou então pelo site https://youpass.surge.sh
    </tr>
 
 </table>
+_______________
 
 ## Ferramentas de desenvolvimento
 ### VsCode
