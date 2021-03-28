@@ -2,32 +2,35 @@
 
 ________________________________
 
-### Generate passwords and be more secure ...
+## Sobre o que se trata? 🤔
 
-## Technology
+### PassGen é um projeto independente, Aonde você pode gerar senhas para ficar mais seguro, contra ataques hackers e vazamentos de dados, Ele e totalmente código aberto, então você pode modificar para o adequar ao seu gosto.
+
+## Tecnologias usadas? 🚀
 
 <table>
    <tr>
-     <td>Electron</td>
-     <td>Html</td>
-     <td>Css</td>
-     <td>JavaScript</td>
+     <td>Electron💻</td>
+     <td>Html🌐</td>
+     <td>Css🎨</td>
+     <td>JavaScript🤖</td>
    </tr>
 
 </table>
 
-## How to run the project?
+## Como posso usar ele?
 
 - Download NodeJS(version: 14.16.0 LTS)
 - Download Electron
-- Clone the project
-- Open the terminal, enter the project and type npm start
-
-## Used color palette?
+- Clone o projeto
+- Abra o terminal, digite: npm init e por fim npm start.
+ _ 
+Ou você pode acessar pelo .exe, ou então pelo site youpass.surge.sh
+## Paleta de cores usadas?
 
 ### Dracula Palette: https://draculatheme.com/contribute/
 
-### Colors Used: 
+### Cores:
 <table>
    <tr>
      <td>#282a36</td>
@@ -38,7 +41,7 @@ ________________________________
 
 </table>
 
-## Tools:
+## Ferramentas de desenvolvimento
 ### VsCode
 ### Figma
 ### Hyper Terminal
