@@ -26,7 +26,7 @@ ________________________________
 - Abra o terminal, digite: npm init e por fim npm start.
 
 __________________
-Ou você pode acessar pelo .exe, ou então pelo site youpass.surge.sh
+Ou você pode acessar pelo .exe, ou então pelo site https://youpass.surge.sh
 ## Paleta de cores usadas?
 
 ### Dracula Palette: https://draculatheme.com/contribute/
@@ -46,4 +46,4 @@ Ou você pode acessar pelo .exe, ou então pelo site youpass.surge.sh
 ### VsCode
 ### Figma
 ### Hyper Terminal
-sefui f
+
