@@ -11,7 +11,7 @@ _______________________
 <table>
    <tr>
 
-     <td>Html🌐</td>
+  <td>Html🌐</td>
      <td>Css🎨</td>
      <td>JavaScript🤖</td>
    </tr>
