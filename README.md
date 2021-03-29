@@ -1,9 +1,9 @@
-# YouPass
+# PassGenerator
 
 ________________________________
 
 ## Sobre o que se trata? 🤔
-### YouPass é um projeto independente onde você pode gerar senhas mais seguras para prevenir ataques de hackers e vazamento de dados.
+### PassGenerator é um projeto independente onde você pode gerar senhas mais seguras para prevenir ataques de hackers e vazamento de dados.
 _______________________
 
 ## Tecnologias usadas? 🚀
@@ -20,7 +20,7 @@ _______________________
 ________________________
 
 ## Como posso usar ele?
-### Você pode acessá-lo pelo site: https://youpass.surge.sh
+### Você pode acessá-lo pelo site: https://passgenerator.surge.sh/
 _________________________
 
 ## Paleta de cores usadas?
