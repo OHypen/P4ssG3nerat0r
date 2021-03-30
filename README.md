@@ -3,7 +3,7 @@
 ________________________________
 
 ## Sobre o que se trata? 🤔
-### PassGenerator é um projeto independente onde você pode gerar senhas mais seguras para prevenir ataques de hackers e vazamento de dados.
+### PassGenerator é um projeto onde você pode gerar senhas mais seguras para prevenir ataques de hackers e vazamento de dados.
 _______________________
 
 ## Tecnologias usadas? 🚀
