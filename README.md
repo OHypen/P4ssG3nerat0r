@@ -20,7 +20,7 @@ _______________________
 ________________________
 
 ## Como posso usar ele?
-### Você pode acessá-lo pelo site: https://passgenerator.surge.sh/
+### Você pode acessá-lo pelo site: https://passgenweb.web.app
 _________________________
 
 ## Paleta de cores usadas?
