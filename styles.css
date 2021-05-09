@@ -1,0 +1,49 @@
+body{
+    background-color: #191622;
+    font-family: sans-serif;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.titleText{
+    align-self: center;
+    padding-bottom: 15px;
+}
+
+.inputBox{
+    align-self: center;
+}
+
+.titleText{
+    color: #FF79C6;
+}
+.labelText{
+    color: #FF79C6;
+    font-weight: bold;
+    padding-right: 15px;
+}
+.inputText{
+    width: 40px;
+}
+.btnGenerate{
+    margin-left: 50px;
+    border-radius: 10px;
+    border: 1px solid #191622;
+    background-color: #41414D;
+    color: #eeeeee;
+    display: block;
+}
+
+.outputBox{
+    align-self: center;
+    margin-top: 20px;
+}
+
+.newPassword{
+    font-size: 40px;
+    font-weight: bolder;
+    color :#eeeeee;
+}
